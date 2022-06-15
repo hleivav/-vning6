@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+.mainPicture {
+    margin: 25px;
+    padding: 25px;
+}
+.mainText{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: burlywood;
+    margin: 25px;
+
+}
+.details{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: burlywood;
+    margin: 25px;
+}
+.video{
+    border-color: rgb(235, 182, 114);
+
+}
+#trailer {
+    border-style: dotted;
+    border-color: aqua;
+}
+.links{
+    margin: 25px;
+}
+li{
+    display: inline-block;
+    margin: 4%;
+}
+a {
+
+    text-decoration: none;
+    color: chocolate;
+    
+}
+footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(240, 161, 15);
+    background-color: bisque;
+    border: 30px;
+    padding: 25px;
+    height: 50px;
+}
